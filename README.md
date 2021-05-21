@@ -26,3 +26,4 @@ Inclus les bibliothèques suivantes :
 
 * [KD2fw](https://fossil.kd2.org/kd2fw/) - Copyright : 2001-2020+ BohwaZ - Licence : GNU AGPL v3
 * [Gibberish AES](https://github.com/mdp/gibberish-aes) - Copyright : Mark Percival 2008 - http://markpercival.us -Licence : MIT
+DUMMY COMMIT TO TRIGGER SQ
